@@ -23,7 +23,7 @@
     margin-right: var(--mb-0-25);
 }
 .qualification__active {
-    color: red;
+    color: var(--title-color-dark)
 }
 .qualification__sections {
     display: grid;
