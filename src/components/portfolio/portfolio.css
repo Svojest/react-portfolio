@@ -1,0 +1,44 @@
+.portfolio__container {
+    justify-content: center;
+}
+
+.portfolio__content {
+    grid-template-columns: repeat(2, 500px);
+}
+.portfolio__card {
+    background-color: var(--container-color);
+    border-radius: 0.75rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+}
+
+.portfolio__img {
+    border-radius: 0.75rem;
+}
+
+.portfolio__title {
+    font-size: var(--h3-font-size);
+    margin-top: 1rem;
+}
+
+.portfolio__subtitle {
+    font-size: var(--normal-font-size);
+    margin: 1rem 0 1rem 0;
+}
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 768px) {
+    
+    .portfolio__content {
+        grid-template-columns: repeat(1, 300px);
+    }
+}
+
+@media screen and (max-width: 350px) {
+}
