@@ -49,7 +49,7 @@ const Portfolio = () => {
 						/>
 						<h3 className='portfolio__title'>Mesto - React</h3>
 						<p className='portfolio__subtitle'>
-							Проект «Mesto» — React version SPA social web with using Functional
+							Project «Mesto» — React version SPA social web with using Functional
 							Components.
 						</p>
 

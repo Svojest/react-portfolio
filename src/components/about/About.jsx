@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/foto2.jpg';
-import CV from '../../assets/Elistratov_Mikhail_CV.pdf';
+import CV from '../../assets/CV-Mikhail-Elistratov.pdf';
 import Info from './Info';
 
 const About = () => {
@@ -15,7 +15,7 @@ const About = () => {
 				<div className='about__data'>
 					<Info />
 					<p className='about__description'>
-						Pedantic in development, I like to use the mobile-first and component approach. I am
+						Pedantic in development, I like to use component approach. I am
 						rapidly developing in web development, I like to communicate with
 						colleagues, share experience, transfer and receive knowledge.
 					</p>
