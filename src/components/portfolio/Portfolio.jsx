@@ -49,12 +49,11 @@ const Portfolio = () => {
 						/>
 						<h3 className='portfolio__title'>Mesto - React</h3>
 						<p className='portfolio__subtitle'>
-							Project «Mesto» — React version SPA social web with using Functional
-							Components.
+							Project «Mesto» — created on React for which the Backend was written on Node.js and used MongoDB.
 						</p>
 
 						<a
-							href='https://github.com/Svojest/mesto-react'
+							href='https://github.com/Svojest/react-mesto-api-full'
 							className='contact__button'
 							target='_blank'
 							rel='noreferrer'
@@ -64,7 +63,7 @@ const Portfolio = () => {
 						</a>
 						<br />
 						<a
-							href='https://svojest.github.io/mesto-react/'
+							href='https://svojest.mesto.nomoredomains.icu/'
 							className='contact__button'
 							target='_blank'
 							rel='noreferrer'
